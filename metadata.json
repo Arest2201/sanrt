@@ -1,0 +1,8 @@
+{
+  "name": "Bienestar INSN San Borja",
+  "description": "Plataforma de bienestar laboral para acompañar pausas, actividades y recursos durante la jornada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
